@@ -4,3 +4,9 @@
 [submodule "redis/rapid-redis"]
 	path = redis/rapid-redis
 	url = https://github.com/theganyo/rapid-redis.git
+[submodule "go/gofullstack"]
+	path = go/gofullstack
+	url = https://github.com/EngineerKamesh/gofullstack.git
+[submodule "go/grpc-go-course"]
+	path = go/grpc-go-course
+	url = https://github.com/simplesteph/grpc-go-course.git
