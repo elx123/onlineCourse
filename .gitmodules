@@ -1,0 +1,6 @@
+[submodule "redis/word-fling"]
+	path = redis/word-fling
+	url = https://github.com/theganyo/word-fling.git
+[submodule "redis/rapid-redis"]
+	path = redis/rapid-redis
+	url = https://github.com/theganyo/rapid-redis.git
