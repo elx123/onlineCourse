@@ -10,3 +10,6 @@
 [submodule "go/grpc-go-course"]
 	path = go/grpc-go-course
 	url = https://github.com/simplesteph/grpc-go-course.git
+[submodule "docker/simple-webapp-flask"]
+	path = docker/simple-webapp-flask
+	url = http://github.com/mmumshad/simple-webapp-flask
