@@ -13,3 +13,6 @@
 [submodule "docker/simple-webapp-flask"]
 	path = docker/simple-webapp-flask
 	url = http://github.com/mmumshad/simple-webapp-flask
+[submodule "docker/simple-webapp"]
+	path = docker/simple-webapp
+	url = https://github.com/mmumshad/simple-webapp.git
