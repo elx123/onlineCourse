@@ -16,3 +16,6 @@
 [submodule "docker/simple-webapp"]
 	path = docker/simple-webapp
 	url = https://github.com/mmumshad/simple-webapp.git
+[submodule "go/go-networking"]
+	path = go/go-networking
+	url = https://github.com/vladimirvivien/go-networking
