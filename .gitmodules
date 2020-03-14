@@ -19,3 +19,9 @@
 [submodule "go/go-networking"]
 	path = go/go-networking
 	url = https://github.com/vladimirvivien/go-networking
+[submodule "go/concurrency-in-go-src"]
+	path = go/concurrency-in-go-src
+	url = https://github.com/kat-co/concurrency-in-go-src.git
+[submodule "go/gwp"]
+	path = go/gwp
+	url = https://github.com/sausheong/gwp.git
