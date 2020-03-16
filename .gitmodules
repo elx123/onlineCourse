@@ -25,3 +25,9 @@
 [submodule "go/gwp"]
 	path = go/gwp
 	url = https://github.com/sausheong/gwp.git
+[submodule "websocket/go-websockets-tutorial"]
+	path = websocket/go-websockets-tutorial
+	url = https://github.com/TutorialEdge/go-websockets-tutorial.git
+[submodule "go/testing-with-gomock"]
+	path = go/testing-with-gomock
+	url = https://github.com/sgreben/testing-with-gomock.git
