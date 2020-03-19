@@ -31,3 +31,9 @@
 [submodule "go/testing-with-gomock"]
 	path = go/testing-with-gomock
 	url = https://github.com/sgreben/testing-with-gomock.git
+[submodule "go/books"]
+	path = go/books
+	url = https://github.com/titpetric/books.git
+[submodule "opentracing/Mastering-Distributed-Tracing"]
+	path = opentracing/Mastering-Distributed-Tracing
+	url = https://github.com/PacktPublishing/Mastering-Distributed-Tracing.git
