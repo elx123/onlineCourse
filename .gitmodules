@@ -37,3 +37,6 @@
 [submodule "opentracing/Mastering-Distributed-Tracing"]
 	path = opentracing/Mastering-Distributed-Tracing
 	url = https://github.com/PacktPublishing/Mastering-Distributed-Tracing.git
+[submodule "Kubernetes/kubernetes-example-voting-app"]
+	path = Kubernetes/kubernetes-example-voting-app
+	url = https://github.com/mmumshad/kubernetes-example-voting-app.git
