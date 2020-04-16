@@ -40,3 +40,6 @@
 [submodule "Kubernetes/kubernetes-example-voting-app"]
 	path = Kubernetes/kubernetes-example-voting-app
 	url = https://github.com/mmumshad/kubernetes-example-voting-app.git
+[submodule "Kubernetes/example-voting-app-kubernetes-v2"]
+	path = Kubernetes/example-voting-app-kubernetes-v2
+	url = https://github.com/mmumshad/example-voting-app-kubernetes-v2.git
