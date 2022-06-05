@@ -43,3 +43,6 @@
 [submodule "Kubernetes/example-voting-app-kubernetes-v2"]
 	path = Kubernetes/example-voting-app-kubernetes-v2
 	url = https://github.com/mmumshad/example-voting-app-kubernetes-v2.git
+[submodule "docker/diamol"]
+	path = docker/diamol
+	url = https://github.com/sixeyed/diamol.git
