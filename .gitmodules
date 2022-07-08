@@ -46,3 +46,6 @@
 [submodule "docker/diamol"]
 	path = docker/diamol
 	url = https://github.com/sixeyed/diamol.git
+[submodule "Kubernetes/kiamol"]
+	path = Kubernetes/kiamol
+	url = https://github.com/sixeyed/kiamol
