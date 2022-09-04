@@ -49,3 +49,6 @@
 [submodule "Kubernetes/kiamol"]
 	path = Kubernetes/kiamol
 	url = https://github.com/sixeyed/kiamol
+[submodule "Kubernetes/TheK8sBook"]
+	path = Kubernetes/TheK8sBook
+	url = https://github.com/nigelpoulton/TheK8sBook.git
