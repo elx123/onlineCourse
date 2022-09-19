@@ -52,3 +52,6 @@
 [submodule "Kubernetes/TheK8sBook"]
 	path = Kubernetes/TheK8sBook
 	url = https://github.com/nigelpoulton/TheK8sBook.git
+[submodule "terraform/terraform-up-and-running-code"]
+	path = terraform/terraform-up-and-running-code
+	url = https://github.com/brikis98/terraform-up-and-running-code.git
