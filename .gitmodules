@@ -55,3 +55,6 @@
 [submodule "terraform/terraform-up-and-running-code"]
 	path = terraform/terraform-up-and-running-code
 	url = https://github.com/brikis98/terraform-up-and-running-code.git
+[submodule "istio"]
+	path = istio
+	url = https://github.com/DickChesterwood/istio-fleetman
