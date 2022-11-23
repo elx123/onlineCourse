@@ -58,3 +58,6 @@
 [submodule "istio"]
 	path = istio
 	url = https://github.com/DickChesterwood/istio-fleetman
+[submodule "prometheus/Hands-On-Infrastructure-Monitoring-with-Prometheus"]
+	path = prometheus/Hands-On-Infrastructure-Monitoring-with-Prometheus
+	url = https://github.com/PacktPublishing/Hands-On-Infrastructure-Monitoring-with-Prometheus.git
