@@ -61,3 +61,6 @@
 [submodule "prometheus"]
 	path = prometheus
 	url = https://github.com/PacktPublishing/Hands-On-Infrastructure-Monitoring-with-Prometheus.git
+[submodule "go/Go-Standard-Library-Cookbook"]
+	path = go/Go-Standard-Library-Cookbook
+	url = https://github.com/PacktPublishing/Go-Standard-Library-Cookbook.git
