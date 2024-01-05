@@ -64,3 +64,6 @@
 [submodule "go/Go-Standard-Library-Cookbook"]
 	path = go/Go-Standard-Library-Cookbook
 	url = https://github.com/PacktPublishing/Go-Standard-Library-Cookbook.git
+[submodule "go/gnp"]
+	path = go/gnp
+	url = https://github.com/awoodbeck/gnp
