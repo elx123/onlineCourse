@@ -67,3 +67,6 @@
 [submodule "go/gnp"]
 	path = go/gnp
 	url = https://github.com/awoodbeck/gnp
+[submodule "go/bookings-app"]
+	path = go/bookings-app
+	url = https://github.com/tsawler/bookings-app.git
