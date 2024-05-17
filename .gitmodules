@@ -16,9 +16,6 @@
 [submodule "docker/simple-webapp"]
 	path = docker/simple-webapp
 	url = https://github.com/mmumshad/simple-webapp.git
-[submodule "go/go-networking"]
-	path = go/go-networking
-	url = https://github.com/vladimirvivien/go-networking
 [submodule "go/concurrency-in-go-src"]
 	path = go/concurrency-in-go-src
 	url = https://github.com/kat-co/concurrency-in-go-src.git
@@ -64,9 +61,9 @@
 [submodule "go/Go-Standard-Library-Cookbook"]
 	path = go/Go-Standard-Library-Cookbook
 	url = https://github.com/PacktPublishing/Go-Standard-Library-Cookbook.git
-[submodule "go/gnp"]
-	path = go/gnp
-	url = https://github.com/awoodbeck/gnp
 [submodule "go/bookings-app"]
 	path = go/bookings-app
 	url = https://github.com/tsawler/bookings-app.git
+[submodule "go/gnp"]
+	path = go/gnp
+	url = https://github.com/elx123/gnp
