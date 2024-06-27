@@ -67,3 +67,6 @@
 [submodule "go/gnp"]
 	path = go/gnp
 	url = https://github.com/elx123/gnp
+[submodule "openapi/eazybytes"]
+	path = openapi/eazybytes
+	url = https://github.com/eazybytes/openapi.git
