@@ -70,3 +70,9 @@
 [submodule "openapi/eazybytes"]
 	path = openapi/eazybytes
 	url = https://github.com/eazybytes/openapi.git
+[submodule "UnitTesting/UnitTestingPPP"]
+	path = UnitTesting/UnitTestingPPP
+	url = https://github.com/vkhorikov/UnitTestingPPP.git
+[submodule "Functional_Design/FunctionalDesign"]
+	path = Functional_Design/FunctionalDesign
+	url = https://github.com/unclebob/FunctionalDesign.git
