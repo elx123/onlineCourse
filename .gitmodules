@@ -73,3 +73,6 @@
 [submodule "UnitTesting/UnitTestingPPP"]
 	path = UnitTesting/UnitTestingPPP
 	url = https://github.com/vkhorikov/UnitTestingPPP.git
+[submodule "FunctionalDesign/FunctionalDesign"]
+	path = FunctionalDesign/FunctionalDesign
+	url = https://github.com/unclebob/FunctionalDesign.git
