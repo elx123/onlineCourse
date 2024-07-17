@@ -76,3 +76,6 @@
 [submodule "Functional_Design/FunctionalDesign"]
 	path = Functional_Design/FunctionalDesign
 	url = https://github.com/unclebob/FunctionalDesign.git
+[submodule "functional/grokking-simplicity-code"]
+	path = functional/grokking-simplicity-code
+	url = https://github.com/ericnormand/grokking-simplicity-code.git
