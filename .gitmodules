@@ -79,3 +79,6 @@
 [submodule "functional/grokking-simplicity-code"]
 	path = functional/grokking-simplicity-code
 	url = https://github.com/ericnormand/grokking-simplicity-code.git
+[submodule "go/bhg"]
+	path = go/bhg
+	url = https://github.com/blackhat-go/bhg.git
