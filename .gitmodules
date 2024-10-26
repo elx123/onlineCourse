@@ -82,3 +82,6 @@
 [submodule "go/bhg"]
 	path = go/bhg
 	url = https://github.com/blackhat-go/bhg.git
+[submodule "data-oriented-programming"]
+	path = data-oriented-programming
+	url = https://github.com/viebel/data-oriented-programming.git
