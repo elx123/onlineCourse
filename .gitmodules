@@ -85,3 +85,6 @@
 [submodule "data-oriented-programming"]
 	path = data-oriented-programming
 	url = https://github.com/viebel/data-oriented-programming.git
+[submodule "Docker_Deep_Dive"]
+	path = docker/Docker_Deep_Dive
+	url = https://github.com/nigelpoulton/ddd-book.git
