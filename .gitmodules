@@ -67,3 +67,9 @@
 [submodule "go/gnp"]
 	path = go/gnp
 	url = https://github.com/awoodbeck/gnp
+[submodule "Kubernetes/cnat"]
+	path = Kubernetes/cnat
+	url = https://github.com/programming-kubernetes/cnat.git
+[submodule "learning-helm"]
+	path = Kubernetes/helm/learning-helm.git
+	url = https://github.com/Masterminds/learning-helm.git
