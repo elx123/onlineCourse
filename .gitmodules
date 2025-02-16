@@ -94,3 +94,6 @@
 [submodule "Docker_Deep_Dive"]
 	path = docker/Docker_Deep_Dive
 	url = https://github.com/nigelpoulton/ddd-book.git
+[submodule "Kubernetes/The-Kubernetes-Operator-Framework-Book"]
+	path = Kubernetes/The-Kubernetes-Operator-Framework-Book
+	url = https://github.com/PacktPublishing/The-Kubernetes-Operator-Framework-Book.git
