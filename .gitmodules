@@ -97,3 +97,6 @@
 [submodule "Kubernetes/The-Kubernetes-Operator-Framework-Book"]
 	path = Kubernetes/The-Kubernetes-Operator-Framework-Book
 	url = https://github.com/PacktPublishing/The-Kubernetes-Operator-Framework-Book.git
+[submodule "RabbitMQ/RabbitMQ-in-Depth"]
+	path = RabbitMQ/RabbitMQ-in-Depth
+	url = https://github.com/gmr/RabbitMQ-in-Depth
