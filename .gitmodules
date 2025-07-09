@@ -100,3 +100,6 @@
 [submodule "RabbitMQ/RabbitMQ-in-Depth"]
 	path = RabbitMQ/RabbitMQ-in-Depth
 	url = https://github.com/gmr/RabbitMQ-in-Depth
+[submodule "redis/Redis-Stack-for-Application-Modernization"]
+	path = redis/Redis-Stack-for-Application-Modernization
+	url = https://github.com/PacktPublishing/Redis-Stack-for-Application-Modernization.git
