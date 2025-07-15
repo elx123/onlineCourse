@@ -100,3 +100,6 @@
 [submodule "redis/redis-essentials"]
 	path = redis/redis-essentials
 	url = https://github.com/redis-essentials/book.git
+[submodule "redis/redis-in-action"]
+	path = redis/redis-in-action
+	url = https://github.com/josiahcarlson/redis-in-action.git
