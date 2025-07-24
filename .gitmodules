@@ -103,3 +103,6 @@
 [submodule "redis/redis-in-action"]
 	path = redis/redis-in-action
 	url = https://github.com/josiahcarlson/redis-in-action.git
+[submodule "redis/redis-udemy"]
+	path = redis/redis-udemy
+	url = https://github.com/pazreingold/redis-udemy.git
