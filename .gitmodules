@@ -106,3 +106,6 @@
 [submodule "redis/redis-udemy"]
 	path = redis/redis-udemy
 	url = https://github.com/pazreingold/redis-udemy.git
+[submodule "grokking_algorithms"]
+	path = grokking_algorithms
+	url = https://github.com/egonSchiele/grokking_algorithms.git
