@@ -109,3 +109,6 @@
 [submodule "grokking_algorithms"]
 	path = grokking_algorithms
 	url = https://github.com/egonSchiele/grokking_algorithms.git
+[submodule "go/Learning_Go_Second_Edition/ch08"]
+	path = go/Learning_Go_Second_Edition/ch08
+	url = https://github.com/learning-go-book-2e/ch08.git
